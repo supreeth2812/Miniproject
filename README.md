@@ -34,6 +34,5 @@ Requires the pollution data set comprising of 4 pollutant raw values namely- CO,
   
 ## Authors
 
-* **Supreeth MP**
-* **Anoop Mudholkar**
+* **Supreeth MP** -[Email](supreeth2812@gmail.com)
 
