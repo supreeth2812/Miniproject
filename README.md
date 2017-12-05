@@ -16,9 +16,11 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing
 
 Requires the pollution data set comprising of 4 pollutant raw values namely- CO, SO2, PM, NO2.
+  
   Raw data sets for different pollutants is available for 2 area:
   * [Peenya](https://github.com/supreeth2812/Miniproject/tree/master/PEENYA)
   * [BTM](https://github.com/supreeth2812/Miniproject/tree/master/BTM)
+  
   Or can be downloaded from:
   * [CPCB](http://www.cpcb.gov.in/CAAQM/frmUserAvgReportCriteria.aspx)-Central Pollution Control Board
 
