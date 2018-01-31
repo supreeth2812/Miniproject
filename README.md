@@ -1,5 +1,5 @@
 # Miniproject
-Bangalore Pollution: Data analytics
+Bangalore Air Pollution:Data analysis
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -15,9 +15,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Installing
 
-Requires the pollution data set comprising of 4 pollutant raw values namely- CO, SO2, PM, NO2.
+Requires the pollution data set comprising of 4 pollutants namely- CO, SO2, PM, NO2.
   
-  Raw data sets for different pollutants is available for 2 area:
+  Data sets for different pollutants is available for 2 area:
   * [Peenya](https://github.com/supreeth2812/Miniproject/tree/master/PEENYA)
   * [BTM](https://github.com/supreeth2812/Miniproject/tree/master/BTM)
   
